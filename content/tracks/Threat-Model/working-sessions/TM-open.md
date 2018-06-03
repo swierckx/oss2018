@@ -10,7 +10,7 @@ when_time    : PM-1
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft             # draft, review-content, done
+status       : done             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
@@ -20,11 +20,11 @@ locked       : true
 
 ## WHY
 
-Create awareness with the threat model track participants on how the summit works.
+Create awareness with the threat model track participants on how the summit works. Explain how the OWASP TM project and community work and handle changes.
 
 ## What
 
-1. Explenation of the way of working for threat modeling
+1. Explenation of the way of working for the threat modeling track and project
 2. Introduction of the working sessions
 3. Open floor for last minute sessions
 4. Call to action
